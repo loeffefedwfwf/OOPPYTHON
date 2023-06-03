@@ -7,4 +7,4 @@ students.append(anton)
 students.append(misha)
 students.append(dima)
 for student in students:
-    print(student.__str__())
+    print(student.__str__()) 
